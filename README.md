@@ -2,7 +2,7 @@
 
 A simple Python script using Slack's search API. 
 
-Code accompanying a [blog post found here][1]
+Code accompanying a [blog post found here][1].
 
 ## Usage 
 
@@ -11,5 +11,5 @@ Code accompanying a [blog post found here][1]
 * Check output for location of temporary CSV file.
 
 
-  [1]: 
+  [1]: https://sgerogia.github.io/Searching-Slack/
   [2]: https://github.com/slackapi/python-slackclient
